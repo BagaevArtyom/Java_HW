@@ -26,5 +26,6 @@ public class Hw_04_2 {
             sum+=iterator.next();
         }
         System.out.println(sum);
+        scanner.close();
     }
 }

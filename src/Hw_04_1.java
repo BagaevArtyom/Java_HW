@@ -46,6 +46,6 @@ public class Hw_04_1 {
         }
     
     }
-
+    scanner.close();
     }
 }
